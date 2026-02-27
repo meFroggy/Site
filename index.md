@@ -21,4 +21,4 @@ My Official Released Mods
 [Marriage]: https://www.curseforge.com/hytale/mods/marriage
 [Marriage Docs]: /marriage/
 [Siren's Commands]: https://www.curseforge.com/hytale/mods/sirenscommands
-[Siren's Commands Docs]: /sirenscommands/
+[Siren's Commands Docs]: /sirenscommands.html
