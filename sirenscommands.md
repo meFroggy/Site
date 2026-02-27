@@ -3,7 +3,7 @@ title: Siren's Commands
 layout: page
 ---
 
-Welcome to the Official Siren's Commands Mod Wiki!
+Welcome to the Official [Siren's Commands](https://www.curseforge.com/hytale/mods/sirenscommands) Mod Wiki!
 
 Commands:
 - /sirenscommands, /scmds : to view all commands on the server
