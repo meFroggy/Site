@@ -16,3 +16,6 @@ color_scheme: dark
 
 logo: "/assets/images/siren-logo.png"
 favicon_ico: "/assets/images/siren-logo.ico"
+
+back_to_top: true
+back_to_top_text: "Back to top"
