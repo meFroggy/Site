@@ -3,7 +3,7 @@ title: Chinese Festivals
 layout: page
 ---
 
-Welcome to the Official [Chinese Festivals](https://www.curseforge.com/hytale/mods/chinesefestivals) Mod Wiki!
+### Welcome to the Official [Chinese Festivals](https://www.curseforge.com/hytale/mods/chinesefestivals) Mod Wiki!
 
 Want to celebrate a Chinese Festival in Hytale? This mod brings you Chinese Festival blocks and Items (more coming soon).
 

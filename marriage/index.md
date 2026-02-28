@@ -3,7 +3,7 @@ title: Marriage
 layout: page
 ---
 
-Welcome to the Official [Marriage](https://www.curseforge.com/hytale/mods/marriage) Mod Wiki!
+### Welcome to the Official [Marriage](https://www.curseforge.com/hytale/mods/marriage) Mod Wiki!
 
 Ever wanted players to get Married? Now you can with Marriage, this plugin allows players to marry other players!
 

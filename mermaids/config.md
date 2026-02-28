@@ -4,95 +4,22 @@ parent: Mermaids
 layout: page
 ---
 
+This is the default config values and descriptions for config version 6 and some of 7 (Release with Alpha v2.0.0).
 
-
-Config:
-
-
-
-This is the default config values and descriptions for config version 6
-
-
-
-\- "Config-Information"
-
-&nbsp; - Default Value: "Confused about what one of these statement do? Check out the Mermaids page on the Curseforge website and scroll down to Config Extra Info."
-
-\- "ConfigVersion"
-
-  - Default Value: 6
-
-  - Description: Config Version when you first load the plugin.
-
-\- "PluginName"
-
-  - Default Value: "Mermaids"
-
-  - Description: Plugin name.
-
-\- "Version"
-
-  - Default Value: "1.3.3"
-
-  - Description: Plugin Verison when you first load the plugin.
-
-\- "Website"
-
-  - Default Value: "https://www.curseforge.com/hytale/mods/mermaids"
-
-  - Description: A link to the plugin's download page and informatiton.
-
-\- "Transformation-Mode"
-
-&nbsp; - Default Value: 0
-
-&nbsp; - Description: TransformationMode = 0 : Transform when entering water, TransformationMode = 1 : Requires user to drink Mermaid Potion to Transform.
-
-\- "Always-A-Mermaid-Even-On-Land"
-
-&nbsp; - Default Value: false
-
-&nbsp; - If you have permissions to be a Mermaid, than you'll always be transformed into a Mermaid even on land.
-
-\- "Require-Transformation-Permission"
-
-&nbsp; - Default Value: false
-
-&nbsp; - Description: Requires the player to have the permission -- mermaids.transform -- to transform into a Mermaid.
-
-\- "Require-Mermaids-UI-Permission"
-
-&nbsp; - Default Value: false
-
-&nbsp; - Description: Requires the player to have the permission -- mermaids.ui -- to run the command /mermaids ui.
-
-\- "Blocks-Can-Cause-Transformations"
-
-&nbsp; - Default Value: true
-
-&nbsp; - Description: Some blocks like mud and a cauldron will cause you to transform into a mermaid.
-
-\- "Rain-Can-Cause-Transformations"
-
-&nbsp; - Default Value: false
-
-&nbsp; - Description: Walking into the rain will cause you to transform.
-
-\- "Mermaid-Have-A-Glow/Light"
-
-&nbsp; - Default Value: true
-
-&nbsp; - Description: The mermaid model will light of a glow allowing the player to see better underwater.
-
-\- "Mermaid-Glow/Light-Radius"
-
-&nbsp; - Default Value: 33
-
-&nbsp; - Description: The radius of the mermaid glow.
-
-\- "DebugMode"
-
-&nbsp; - Default Value: false
-
-&nbsp; - Run the plugin in debug mode to get alerts about most actions of the plugin.
-
+| Config Name: | Default Value: | Description: |
+|:---|:---|:---|
+| "Config-Information" | A long string that tells you to come to this site. | Information about how to find stuff related to the config. |
+| "ConfigVersion" | 7 | Current Version when you have loaded for the plugin. |
+| "PluginName" | "Mermaids" | Plugin name. |
+| "Version" | "1.3.9" | Version of the last ran mod jar. |
+| "Website" | "https://mermaids.dev/marriage/" | Official website for this mod. |
+| "Download-Site" | "https://www.curseforge.com/hytale/mods/marriage" | Website to download this mod, check for updates, and information. |
+| "Transformation-Mode" | 0 | TransformationMode = 0 : Transform when entering water, TransformationMode = 1 : Requires user to drink Mermaid Potion to Transform. |
+| "Always-A-Mermaid-Even-On-Land" | false | If you have permissions to be a Mermaid, than you'll always be transformed into a Mermaid even on land. |
+| "Require-Transformation-Permission" | false | Requires the player to have the permission -- mermaids.transform -- to transform into a Mermaid. |
+| "Require-Mermaids-UI-Permission" | false | Requires the player to have the permission -- mermaids.ui -- to run the command /mermaids ui or /mermaid. |
+| "Blocks-Can-Cause-Transformations" | true | Some blocks like mud and a cauldron will cause you to transform into a mermaid. |
+| "Rain-Can-Cause-Transformations" | false | Walking into the rain will cause you to transform into a mermaid. |
+| "Mermaid-Have-A-Glow/Light" | true | The mermaid model will light of a glow allowing the player to see better underwater. |
+| "Mermaid-Glow/Light-Radius" | 33 | The radius of the mermaid glow. |
+| "DebugMode" | false | Run the plugin in debug mode to get alerts about most actions of the plugin. |

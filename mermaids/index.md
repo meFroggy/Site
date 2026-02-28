@@ -3,7 +3,7 @@ title: Mermaids
 layout: page
 ---
 
-Welcome to the Official [Mermaids](https://www.curseforge.com/hytale/mods/mermaids) Mod Wiki!
+### Welcome to the Official [Mermaids](https://www.curseforge.com/hytale/mods/mermaids) Mod Wiki!
 
 Ever wanted to be a Mermaid? Now you can with Mermaids, this plugin allows the user to become a Mermaid in water! Which gives the player increased movement speed, water breathing, night vision, and more while swimming underwater throughout seas, oceans, and rivers.
 

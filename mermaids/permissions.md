@@ -4,63 +4,17 @@ parent: Mermaids
 layout: page
 ---
 
-
-
-Permissions:
-
-
-
-\- mermaids.transform
-
-&nbsp; - Allows the player to mermaid transform when this option is enabled in config.
-
-\- mermaids.ui
-
-&nbsp; - Run /mermaids ui command.
-
-\- mermaids.toggle
-
-&nbsp; - Run /mermaids toggle (boolean) command.
-
-
-
-\- mermaids.debug
-
-&nbsp; - Access to the /mermaids debug commands.
-
-\- mermaids.debug.mermaidv2
-
-&nbsp; - Access to use /mermaids debug mermaidv2 true|false, which allows the user to try out the Mermaid Tail Model v2.
-
-\- mermaids.debug.mermaidring
-
-&nbsp; - Access to use /mermaids debug givemermaidring, which will give the player a testing item called the Mermaid Ring.
-
-
-
-\- mermaids.admin
-
-&nbsp; - Access to the /mermaids admin commands.
-
-\- mermaids.admin.mode
-
-&nbsp; - Access to use /mermaids admin transformmode {New Mode Integer}, which updates the transformation mode.
-
-\- mermaids.admin.mermaidonland
-
-&nbsp; - Access to use /mermaids admin mermaidonland true|false, which toggles mermaid on land for all players.
-
-\- mermaids.admin.blocktransform
-
-&nbsp; - Access to use /mermaids admin blocktransformation true|false, which toggles to allow some blocks to transform players into a mermaid.
-
-\- mermaids.admin.raintransform
-
-&nbsp; - Access to use /mermaids admin raintransformation true|false, which toggles to allow rain to transform players into a mermaid.
-
-\- mermaids.admin.mermaidglow
-
-  - Access to use /mermaids admin mermaidglow true|false, which toggles the mermaid model glow.
-
-  - Access to use /mermaids admin mermaidglowraduis {int}, that sets the radius of the mermaid glow.
-
+| Permission: | Description: |
+|:---|:---|
+| mermaids.transform| Allows the player to mermaid transform when this option is enabled in config. |
+| mermaids.ui| Allows the player to use the command /mermaid and /mermaids ui. |
+| mermaids.toggle | Allows the player to use the command /mermaids toggle [true|false]. |
+| mermaids.debug | Allows the player to use the command /mermaids debug command line. |
+| mermaids.debug.mermaidv2 | Allows the player to use the command /mermaids debug mermaidv2 [true|false]. |
+| mermaids.debug.mermaidring | Allows the player to use the command /mermaids debug givemermaidring. |
+| mermaids.admin | Allows the player to use the command /mermaids admin command line. |
+| mermaids.admin.mode | Allows the player to use the command /mermaids admin transformmode [New Mode Integer]. |
+| mermaids.admin.mermaidonland | Allows the player to use the command /mermaids admin mermaidonland [true|false]. |
+| mermaids.admin.blocktransform | Allows the player to use the command /mermaids admin blocktransformation [true|false]. |
+| mermaids.admin.raintransform | Allows the player to use the command /mermaids admin raintransformation [true|false]. |
+| mermaids.admin.mermaidglow| Allows the player to use the command /mermaids admin mermaidglow [true|false] and /mermaids admin mermaidglowraduis [int]. |
