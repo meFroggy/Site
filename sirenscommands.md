@@ -8,7 +8,8 @@ layout: page
 Siren's Commands adds multiple useful commands to your server. This is more of a personal plugin with commands I use to simplify my experience using Hytale.
 
 
-####Commands:
+#### Commands:
+
 | Command: | Description: |
 |:---|:---|
 | /sirenscommands and /scmds | View all of Siren's Commands that are available. |
