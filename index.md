@@ -4,15 +4,16 @@ layout: home
 nav_order: 1
 ---
 
-Welcome to the Official website of Siren's Hytale mods!
+## Welcome to the Official website of Siren's Hytale mods!
 
-My Official Released Mods
-- [Chinese Festivals]
-  - [Chinese Festivals Docs]
-- [Marriage]
-  - [Marriage Docs]
+### My Official Released Mods
+
 - [Mermaids]
   - [Mermaids Docs]
+- [Marriage]
+  - [Marriage Docs]
+- [Chinese Festivals]
+  - [Chinese Festivals Docs]
 - [Siren's Commands]
   - [Siren's Commands Docs]
 

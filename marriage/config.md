@@ -2,6 +2,7 @@
 title: Config
 parent: Marriage
 layout: page
+nav_order: 3
 ---
 
 Last updated for v1.2.0, which at the time of writing this, that version hasn't released yet. Look at Curseforge page for now.

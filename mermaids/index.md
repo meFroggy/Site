@@ -1,6 +1,7 @@
 ---
 title: Mermaids
 layout: page
+nav_order: 2
 ---
 
 ### Welcome to the Official [Mermaids](https://www.curseforge.com/hytale/mods/mermaids) Mod Wiki!

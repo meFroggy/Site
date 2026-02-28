@@ -2,6 +2,7 @@
 title: Commands
 parent: Marriage
 layout: page
+nav_order: 1
 ---
 
 | Command: | Description: | Permission: |

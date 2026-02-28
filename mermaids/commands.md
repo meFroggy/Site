@@ -2,6 +2,7 @@
 title: Commands
 parent: Mermaids
 layout: page
+nav_order: 1
 ---
 
 | Command: | Description: | Permission: |

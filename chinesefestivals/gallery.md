@@ -2,6 +2,7 @@
 title: Gallery
 parent: Chinese Festivals
 layout: page
+nav_order: 1
 ---
 
 Spring Festival Lantern:

@@ -2,6 +2,7 @@
 title: Gallery
 parent: Mermaids
 layout: page
+nav_order: 4
 ---
 
 Upcoming Tail Model Sneak Peak with Whale:

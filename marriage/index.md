@@ -1,6 +1,7 @@
 ---
 title: Marriage
 layout: page
+nav_order: 3
 ---
 
 ### Welcome to the Official [Marriage](https://www.curseforge.com/hytale/mods/marriage) Mod Wiki!

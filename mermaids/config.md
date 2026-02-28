@@ -2,6 +2,7 @@
 title: Config
 parent: Mermaids
 layout: page
+nav_order: 3
 ---
 
 This is the default config values and descriptions for config version 6 and some of 7 (Release with Alpha v2.0.0).

@@ -2,6 +2,7 @@
 title: Permissions
 parent: Mermaids
 layout: page
+nav_order: 2
 ---
 
 | Permission: | Description: |

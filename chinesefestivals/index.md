@@ -1,6 +1,7 @@
 ---
 title: Chinese Festivals
 layout: page
+nav_order: 4
 ---
 
 ### Welcome to the Official [Chinese Festivals](https://www.curseforge.com/hytale/mods/chinesefestivals) Mod Wiki!
