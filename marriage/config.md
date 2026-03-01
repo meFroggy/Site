@@ -7,7 +7,7 @@ permalink: /marriage/config/
 nav_order: 3
 ---
 
-Last updated for v1.2.0, which at the time of writing this, that version hasn't released yet. Look at Curseforge page for now.
+Last updated for Config Version 2 and Marriage v1.2.0.
 
 | Config Name: | Default Value: | Description: |
 |:---|:---|:---|
