@@ -14,8 +14,8 @@ aux_links_new_tab: true
 
 color_scheme: dark
 
-logo: "/assets/images/siren-logo.png"
-favicon_ico: "/assets/images/siren-logo.ico"
+logo: "/assets/images/utils/siren-logo.png"
+favicon_ico: "/assets/images/utils/siren-logo.ico"
 
 back_to_top: true
 back_to_top_text: "Back to top"
