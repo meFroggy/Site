@@ -2,7 +2,7 @@
 title: Custom Model Texture
 description: Mermaids API - Custom Model Texturing Docs
 parent: Mermaids API
-layout: page
+layout: default
 nav_order: 1
 ---
 
