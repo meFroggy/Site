@@ -2,21 +2,21 @@
 title: Custom Model Texture
 description: Mermaids API - Custom Model Texturing Docs
 parent: Mermaids API
-layout: default
+layout: page
 nav_order: 1
 ---
 
-| Color Key:                                                    | Description:                                                                 |
-|:--------------------------------------------------------------|:-----------------------------------------------------------------------------|
-| <span style="color: rgb(127, 0, 0);">#Maroon</span>           | Left side of the Mermaid Tail.                                               |
-| <span style="color: rgb(255, 0, 0);">#Red</span>              | Front of the Mermaid Tail.                                                   |
-| <span style="color: rgb(170, 0, 0);">#Dark Red</span>         | Right side of the Mermaid Tail.                                              |
-| <span style="color: rgb(255, 58, 58);">#Light Red</span>      | Back of the Mermaid Tail.                                                    |
-| <span style="color: rgb(127, 0, 55);">#Dark Pink</span>       | Top parts of the Mermaid Tail : Shown when rotated.                          |
-| <span style="color: rgb(255, 0, 110);">#Hot Pink</span>       | Bottom parts of the Mermaid Tail : Some shown when rotated and/or unrotated. |
-| <span style="color: rgb(0, 127, 127);">#Turquoise</span>      | Inner Fin left side outer color.                                             |
-| <span style="color: rgb(0, 255, 255);">#Aqua</span>           | Inner Fin left side inner color.                                             |
-| <span style="color: rgb(0, 148, 255);">#Sea Blue</span>       | Front of the Inner Fin.                                                      |
+| Color Key | Description |
+|:---|:---|
+| <span style="color: rgb(127, 0, 0);">#Maroon</span> | Left side of the Mermaid Tail. |
+| <span style="color: rgb(255, 0, 0);">#Red</span> | Front of the Mermaid Tail. |
+| <span style="color: rgb(170, 0, 0);">#Dark Red</span> | Right side of the Mermaid Tail. |
+| <span style="color: rgb(255, 58, 58);">#Light Red</span> | Back of the Mermaid Tail. |
+| <span style="color: rgb(127, 0, 55);">#Dark Pink</span> | Top parts of the Mermaid Tail : Shown when rotated. |
+| <span style="color: rgb(255, 0, 110);">#Hot Pink</span> | Bottom parts of the Mermaid Tail : Some shown when rotated and/or unrotated. |
+| <span style="color: rgb(0, 127, 127);">#Turquoise</span> | Inner Fin left side outer color. |
+| <span style="color: rgb(0, 255, 255);">#Aqua</span> | Inner Fin left side inner color. |
+| <span style="color: rgb(0, 148, 255);">#Sea Blue</span> | Front of the Inner Fin. |
 | <span style="color: rgb(0, 0, 255);">#Blue</span>             | Inner Fin left side inner color.                                             |
 | <span style="color: rgb(0, 26, 173);">#Dark Blue</span>       | Inner Fin left side outer color.                                             |
 | <span style="color: rgb(72, 0, 255);">#Indigo</span>          | Back of the Inner Fin.                                                       |
