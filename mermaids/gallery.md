@@ -4,7 +4,7 @@ description: Mermaids Mod - Gallery
 parent: Mermaids
 layout: page
 permalink: /mermaids/gallery/
-nav_order: 4
+nav_order: 5
 ---
 
 Upcoming Tail Model Sneak Peak with Whale:
