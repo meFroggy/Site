@@ -1,5 +1,5 @@
 ---
-title: Mermaids PlaceholderAPI Expansion
+title: PlaceholderAPI Expansion
 description: Mermaids Mod - Mermaids PlaceholderAPI Expansion
 parent: Mod Compatibilities
 layout: page
