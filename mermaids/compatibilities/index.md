@@ -18,5 +18,9 @@ nav_order: 6
 - [Orbis Origins](https://www.curseforge.com/hytale/mods/orbis-origins) By: [Hexvane](https://www.curseforge.com/members/hexvane/projects)
   - Requires downloading the [Orbis Origins X Mermaids](https://www.curseforge.com/hytale/mods/orbis-origins-mermaids) Mod.
   - About the [Orbis Origins X Mermaids](/mermaids/compatibilities/orbis-origins/) Mod.
-- [Wardrobe](https://www.curseforge.com/hytale/mods/wardrobe) By: [jacksonhardaway](https://www.curseforge.com/members/jacksonhardaway/projects) -- Coming in v1.4.1
+- [Wardrobe](https://www.curseforge.com/hytale/mods/wardrobe) By: [jacksonhardaway](https://www.curseforge.com/members/jacksonhardaway/projects) 
   - Transforming back into a human from a mermaid reapplies the wardrobe cosmetics, still doesn't work on Mermaid model.
+- [Voile (in-game wiki)](https://www.curseforge.com/hytale/mods/docs) By: [Mayuna_1](https://www.curseforge.com/members/mayuna_1/projects)
+  - Adds part of the [Mermaids Docs](https://mermaids.dev/mermaids/) in-game.
+- [Better Modlist](https://www.curseforge.com/hytale/mods/better-modlist) By: [Buuz135](https://www.curseforge.com/members/buuz135/projects)
+  - Adds the Mermaids logo to the mod list.

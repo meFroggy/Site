@@ -19,6 +19,7 @@ nav_order: 1
 | /mermaids admin | Mermaids admin command line. | mermaids.admin |
 | /mermaids admin transformmode [New Mode Integer] | Update the transformation mode with 0 to allow transforming when entering water and 1 to only allow transformation from drinking a potion. | mermaids.admin.mode |
 | /mermaids admin mermaidonland [true/false] | Toggle mermaid on land for all players. | mermaids.admin.mermaidonland|
+| /mermaids admin itemincreasespeed [true/false] | Toggles to allow some items to increase the swim movement speed. | mermaids.admin.itemincreasespeed |
 | /mermaids admin blockstransformation [true/false] | Toggle to allow some blocks to transform players into a mermaid. | mermaids.admin.blocktransform |
 | /mermaids admin raintransformation [true/false] | Toggle to allow rain to transform players into a mermaid. | mermaids.admin.raintransform|
 | /mermaids admin mermaidglow [true/false] | Toggle to have the mermaid model glow. | mermaids.admin.mermaidglow |
