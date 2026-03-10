@@ -24,3 +24,5 @@ Siren's Commands adds multiple useful commands to your server. This is more of a
 | /day and /night | More accurate time to set for day or night. |
 
 { IN DEVELOPMENT }
+
+<span style="color: #c2e0f4;"><img src="https://api.hstats.dev/api/embed/56a8c866-7826-4eab-a0ac-116491f4fc60/card.svg?theme=dark&amp;layout=history&amp;size=lg&amp;show_id=true&amp;dark=false" alt="HStats Siren's Commands Mod with History Img" width="920" height="340"></span>
