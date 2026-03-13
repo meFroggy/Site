@@ -24,5 +24,5 @@ nav_order: 6
   - Adds part of the [Mermaids Docs](https://mermaids.dev/mermaids/) in-game.
 - [Better Modlist](https://www.curseforge.com/hytale/mods/better-modlist) By: [Buuz135](https://www.curseforge.com/members/buuz135/projects)
   - Adds the Mermaids logo to the mod list.
-- [MoreNPC](https://www.curseforge.com/hytale/mods/morenpc) By: [BlueEyesWhiteMen](https://www.curseforge.com/members/blueeyeswhitemen/projects) -- Coming v1.4.2
+- [MoreNPC](https://www.curseforge.com/hytale/mods/morenpc) By: [BlueEyesWhiteMen](https://www.curseforge.com/members/blueeyeswhitemen/projects) 
   - Trident will give increased movement speed underwater.
